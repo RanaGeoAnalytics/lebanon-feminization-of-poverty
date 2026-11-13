@@ -12,7 +12,7 @@ This project aims to:
 - Compare selected labour-market indicators between 2018 and 2022.
 - Present female labour-force participation by governorate.
 - Distinguish observed data from estimates and crisis projections.
-- Provide maps, figures, data, and sources for research and educational use.
+- Provide maps and figures for research and educational use.
 
 ---
 
@@ -20,13 +20,13 @@ This project aims to:
 
 ### Female Labour Force Participation by Governorate in Lebanon: 2018 Baseline (%)
 
-![Female Labour Force Participation by Governorate in Lebanon, 2018](maps/female_labour_force_participation_governorates_2018.png)
+![Female Labour Force Participation by Governorate in Lebanon](Female%20Labour%20Force%20Participation%20by%20Governorate%20in%20Lebanon.jpg)
 
 The map shows the share of Lebanese women participating in the labour force by governorate. This indicator includes women who are employed or actively seeking work. It is not a direct poverty rate.
 
 **Source:** UN Women Statistical Profile, based on CAS/ILO data.  
 **Data year:** 2018 baseline.  
-**Prepared by:** Your Name
+**Prepared by:** RanaGeoAnalytics
 
 ---
 
@@ -34,7 +34,7 @@ The map shows the share of Lebanese women participating in the labour force by g
 
 ### 1. Female Unemployment Baseline and Projection
 
-![Female Unemployment Baseline and Projection](figures/female_unemployment_baseline_projection.png)
+![Female Unemployment Baseline and Projection](Female%20Unemployment%20Baseline%20and%20Projection%20%283%29.png)
 
 This figure presents the female unemployment baseline and the crisis projection.
 
@@ -44,11 +44,9 @@ This figure presents the female unemployment baseline and the crisis projection.
 
 ### 2. National Employment Comparison
 
-![National Employment Comparison](figures/national_employment_comparison.png)
+![National Employment Comparison](National%20Employment%20Comparison%20%281%29.png)
 
 This figure compares the employment-to-population ratio between Lebanese women and men.
-
-The employment-to-population ratio was:
 
 | Year | Women | Men |
 |---|---:|---:|
@@ -59,7 +57,7 @@ The employment-to-population ratio was:
 
 ### 3. National Labour Force Participation
 
-![National Labour Force Participation](figures/national_labour_force_participation.png)
+![National Labour Force Participation](National%20Labour%20Force%20Participation%20%281%29.png)
 
 This figure presents national female labour-force participation indicators in Lebanon.
 
@@ -122,23 +120,8 @@ This project distinguishes between:
 
 ---
 
-## Repository Structure
+## Reuse and Attribution
 
-```text
-lebanon-feminization-of-poverty/
-├── README.md
-├── data/
-│   ├── evidence.xlsx
-│   └── ArcMap_join_table_by_ID_1.xlsx
-├── maps/
-│   └── female_labour_force_participation_governorates_2018.png
-├── figures/
-│   ├── female_unemployment_baseline_projection.png
-│   ├── national_employment_comparison.png
-│   └── national_labour_force_participation.png
-├── methodology/
-│   └── methodology.md
-└── sources/
-    └── sources.md
+This project is intended for research and educational use. Please preserve attribution to the original data sources when reusing the tables, map, or figures.
 
 
